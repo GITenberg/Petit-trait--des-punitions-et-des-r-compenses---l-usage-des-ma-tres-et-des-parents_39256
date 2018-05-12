@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39921
     wikipedia: http://fr.wikipedia.org/wiki/F%C3%A9lix_H%C3%A9ment
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39256#Petit-trait--des-punitions-et-des-r-compenses---l-usage-des-ma-tres-et-des-parents
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2012-03-24'
 gutenberg_type: Text
