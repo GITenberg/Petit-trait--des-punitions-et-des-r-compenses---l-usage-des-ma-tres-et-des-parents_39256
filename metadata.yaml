@@ -1,0 +1,33 @@
+_repo: Petit-trait--des-punitions-et-des-r-compenses---l-usage-des-ma-tres-et-des-parents_39256
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39256-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hément, Félix
+    alias: Hement, Felix
+    birthdate: 1827
+    deathdate: 1891
+    gutenberg_agent_id: '39921'
+    url: http://www.gutenberg.org/2009/agents/39921
+    wikipedia: http://fr.wikipedia.org/wiki/F%C3%A9lix_H%C3%A9ment
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39256'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rewards and punishments in education'
+- !lcsh 'Discipline of children'
+- !lcsh 'Child rearing'
+- !lcsh 'School discipline'
+- !lcc 'LB'
+title: Petit traité des punitions et des récompenses à l'usage des maîtres et des
+  parents
+url: http://www.gutenberg.org/ebooks/39256
